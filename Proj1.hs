@@ -371,3 +371,5 @@ checkDiv :: Int -> Int -> Double
 checkDiv x y = a / b
   where a = fromIntegral x :: Double
         b = fromIntegral y :: Double
+
+New 1
